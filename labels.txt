@@ -1,2 +1,4 @@
 0 Paloma
 1 Gorrion
+2 Pavo
+3 Canario
